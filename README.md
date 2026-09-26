@@ -1,3 +1,12 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Nazim%20Uddin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer+in+Progress;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications;Always+Learning+%7C+Always+Building" />
+
+</div>
+
 x# Hi 👋, I'm Nazim Uddin
 
 💻 **Full-Stack Web Developer in Progress from Bangladesh**
