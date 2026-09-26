@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Najim 👋
 
-<!--
-**nazimudddin/nazimudddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Web Developer & Tech Enthusiast
 
-Here are some ideas to get you started:
+A passionate developer dedicated to building responsive, modern web applications and learning new technologies to solve real-world problems.
+🚀 What I Do
+💻 Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Backend: Node.js, Express.js (Exploring & Building)
+
+🛠️ Tools & Platforms: Git, GitHub, VS Code
+
+📌 Featured Projects
+🌐 Project One – A clean, responsive web application built with modern web tools.
+
+⚡ Project Two – Interactive frontend application featuring custom components and responsive design.
+
+🛠️ Tech Stack
+Languages & Technologies:
+
+Tools:
+
+📊 GitHub Stats
+📫 Connect with Me
+💼 LinkedIn: Najim Profile Link
+
+📧 Email: najim@example.com
